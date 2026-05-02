@@ -11,3 +11,4 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-02] # SKYIN Project: AI-Driven College Admission Consulting Platform  ## 1. Project Overview SKYIN은 MrBeast 스타일의 고자극·고효율 유튜브 콘텐츠로 트래픽을 확보하고, 이를 구독형 AI 입시 컨설팅 웹서비스로 전환하는 하이브리드 에듀테크 프로젝트이다. AI 에이전트는 본 문서를 바탕으로 유튜브 콘텐츠 기획 자동화, 웹서비스 프론트엔드/백엔드 구축, 결제 연동 및 사용자 맞춤형 학습 계획 생성 파이프라인을 구축한다.  ## 2. System Architect
 - [2026-05-02] 현재까지 진행사항 보고해줘. → 보고서 sessions/2026-05-02T00-50/_report.md
 - [2026-05-02] 팀회의를 진행하고 주간계획을 수립합시다. Action item위주로 실행계획에 기반해서 단순,명료하게 회의록을 작성합시다. → 보고서 sessions/2026-05-02T01-06/_report.md
+- [2026-05-02] 왜 아무도 일하고 있지 않지? → 보고서 sessions/2026-05-02T03-33/_report.md
